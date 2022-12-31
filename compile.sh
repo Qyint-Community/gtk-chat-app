@@ -1,1 +1,1 @@
-gcc -o login-window login-window.c `pkg-config --cflags --libs gtk+-3.0`
+gcc -o client client.c `pkg-config --cflags --libs gtk+-3.0`
