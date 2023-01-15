@@ -30,4 +30,4 @@ It shouldnt be too hard to expand on the Backend and build a working Chat App - 
 I just created this for fun.
 
 # Licensing
-This Application is published under the QYINT-LICENSE.
+This Application is published under the GPLv3.
